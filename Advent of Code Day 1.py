@@ -1,6 +1,6 @@
 ### Advent of Code Day 1 ### 
 # Part 1 - Answer = 70296
-# Part 2 - Answer = 
+# Part 2 - Answer = 205381
 
 # Getting data 
 with open("AoC_Day1.txt") as file:
